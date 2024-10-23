@@ -3,3 +3,5 @@ salut
 au revoir
 test
 :)
+
+exercice 6 rajout des modif
